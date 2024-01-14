@@ -1,0 +1,33 @@
+X:1
+T:
+M:4/4
+L:1/8
+Q:1/4=115
+K:G
+%1sharps
+%%MIDI program 0
+V:1
+%%MIDI program 0
+[d2-c2-A2-F2-D,2][d2c2A2F2D,,2][^d3c3A3F3=D,3-][^dcAF=D,]|
+[d2c2A2F2D,2][f2d2c2A2A,2]D2D,2|
+[d2-c2-A2-F2-D,2][d2c2A2F2D,,2][^d3c3A3F3=D,3-][^dcAF=D,]|
+[d2c2A2F2D,2][a2f2d2c2D2C2F,2][D,4D,,4]|
+[D2-B,2G,,2][D2B,2G,2G,,2][G-DB,,-][G-B,,][GD-D,-][AFDD,]|
+[B2-G2-D2-G,2][B2G2D2G,,2][c2-G2E2G,2][cDG,,-][BGDG,,]|
+[A2-F2-C2-D,2][A2F2C2D,,2][B2-F2-D2-D,2][BF-DD,,-][AFCD,,]|
+[G2-D2-B,2-G,,2][G2D2B,2D,2][D2B,2G,2]D,2||
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+F,,/2F,,/2F,,/2F,,/2F,,/2F,,/2F,,/2F,,/2F,,/2F,,/2F,,/2F,,/2F,,/2F,,/2F,,/2[e-c-G[e-c-G[e-c-G[e-c-G[e-c-G[e-c-G[e-c-G[e-c-G[e-c-G[e-c-G[e-c-G[e-c-G[e-c-G[e-c-G[e-c-G[C=[C=[C=[C=[C=[C=[C=[C=[C=[C=[C=[C=[C=[C=[C=[F-C-^A,[F-C-^A,[F-C-^A,[F-C-^A,[F-C-^A,[F-C-^A,[F-C-^A,[F-C-^A,[F-C-^A,[F-C-^A,[F-C-^A,[F-C-^A,[F-C-^A,[F-C-^A,[F-C-^A,[A2-F2-C2-][A2-F2-C2-][A2-F2-C2-][A2-F2-C2-][A2-F2-C2-][A2-F2-C2-][A2-F2-C2-][A2-F2-C2-][A2-F2-C2-][A2-F2-C2-][A2-F2-C2-][A2-F2-C2-][A2-F2-C2-][A2-F2-C2-][A2-F2-C2-]_D/2-B,/2-G,/2-]_D/2-B,/2-G,/2-]_D/2-B,/2-G,/2-]_D/2-B,/2-G,/2-]_D/2-B,/2-G,/2-]_D/2-B,/2-G,/2-]_D/2-B,/2-G,/2-]_D/2-B,/2-G,/2-]_D/2-B,/2-G,/2-]_D/2-B,/2-G,/2-]_D/2-B,/2-G,/2-]_D/2-B,/2-G,/2-]_D/2-B,/2-G,/2-]_D/2-B,/2-G,/2-]_D/2-B,/2-G,/2-]2-^D2-]2-^D2-]2-^D2-]2-^D2-]2-^D2-]2-^D2-]2-^D2-]2-^D2-]2-^D2-]2-^D2-]2-^D2-]2-^D2-]2-^D2-]2-^D2-]2-^D2-]-=G-]-=G-]-=G-]-=G-]-=G-]-=G-]-=G-]-=G-]-=G-]-=G-]-=G-]-=G-]-=G-]-=G-]-=G-][bfdB[bfdB[bfdB[bfdB[bfdB[bfdB[bfdB[bfdB[bfdB[bfdB[bfdB[bfdB[bfdB[bfdB[bfdB[B^G][B^G][B^G][B^G][B^G][B^G][B^G][B^G][B^G][B^G][B^G][B^G][B^G][B^G][B^G][A-F-D,][A-F-D,][A-F-D,][A-F-D,][A-F-D,][A-F-D,][A-F-D,][A-F-D,][A-F-D,][A-F-D,][A-F-D,][A-F-D,][A-F-D,][A-F-D,][A-F-D,]F/2EF/2EF/2EF/2EF/2EF/2EF/2EF/2EF/2EF/2EF/2EF/2EF/2EF/2EF/2E[A-F-D,][A-F-D,][A-F-D,][A-F-D,][A-F-D,][A-F-D,][A-F-D,][A-F-D,][A-F-D,][A-F-D,][A-F-D,][A-F-D,][A-F-D,][A-F-D,][d2^A[d2^A[d2^A[d2^A[d2^A[d2^A[d2^A[d2^A[d2^A[d2^A[d2^A[d2^A[d2^A[d2^A3/2^C,3/2]3/2^C,3/2]3/2^C,3/2]3/2^C,3/2]3/2^C,3/2]3/2^C,3/2]3/2^C,3/2]3/2^C,3/2]3/2^C,3/2]3/2^C,3/2]3/2^C,3/2]3/2^C,3/2]3/2^C,3/2]3/2^C,3/2]3/2^C,3/2][GE-C-G,-E,-C,-][GE-C-G,-E,-C,-][GE-C-G,-E,-C,-][GE-C-G,-E,-C,-][GE-C-G,-E,-C,-][GE-C-G,-E,-C,-][GE-C-G,-E,-C,-][GE-C-G,-E,-C,-][GE-C-G,-E,-C,-][GE-C-G,-E,-C,-][GE-C-G,-E,-C,-][GE-C-G,-E,-C,-][GE-C-G,-E,-C,-][GE-C-G,-E,-C,-][G/2-C/2-][G/2-C/2-][G/2-C/2-][G/2-C/2-][G/2-C/2-][G/2-C/2-][G/2-C/2-][G/2-C/2-][G/2-C/2-][G/2-C/2-]

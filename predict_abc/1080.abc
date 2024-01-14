@@ -1,0 +1,33 @@
+X:1
+T:
+M:4/4
+L:1/8
+Q:1/4=60
+K:Ab
+%4flats
+%%MIDI program 0
+V:1
+%%MIDI program 0
+[e2c2][ecA,,][fcE,][gcCA,][acE,][aedB,,][g-e-d-E,]|
+[gedDB,][fdE,][eE,E,,][geDG,E,][bgDG,E,][d'bDG,E,][c'-a-A,,][c'-a-E,]|
+[c'/2a/2C/2-A,/2-][C/2A,/2]c'[f'=A,,][e'C=A,F,][c'F,,][=aECF,][c'B,,][b=D_A,F,]|
+[aB,,][f=B,F,=D,][ecE,E,,][aCA,E,][g_dE,E,,][_bDG,E,][a-e-c-A,][a-e-c-E,]|
+[a3/2e3/2c3/2A,,3/2-]A,,/2x2A,,[ECE,][ECA,][ECE,]|
+B,,[EDE,][EDG,][FDE,]E,,[EDE,][EDG,][EDE,]|
+A,,[AECE,][AECA,][AECE,][F,-F,,-][CF,F,,][=AFE]F|
+[B,-B,,-][_AF=DB,-B,,-][BF=DB,-B,,-][A/2-F/2-=D/2-B,/2B,,/2][A/2F/2=D/2][GEE,-E,,-][EE,E,,][G=DA,B,,-B,,,-][F=DA,B,,B,,,]||
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+[E8[E8[E8[E8[E8[E8[E8[E8[E8[E8[E8[E8[E8[E8[E8[gG,][gG,][gG,][gG,][gG,][gG,][gG,][gG,][gG,][gG,][gG,][gG,][gG,][gG,][gG,](3c(3c(3c(3c(3c(3c(3c(3c(3c(3c(3c(3c(3c(3c(3c[e/2-D,/2][e/2-D,/2][e/2-D,/2][e/2-D,/2][e/2-D,/2][e/2-D,/2][e/2-D,/2][e/2-D,/2][e/2-D,/2][e/2-D,/2][e/2-D,/2][e/2-D,/2][e/2-D,/2][e/2-D,/2][e/2-D,/2][B/2G/2B,/2G,/2][B/2G/2B,/2G,/2][B/2G/2B,/2G,/2][B/2G/2B,/2G,/2][B/2G/2B,/2G,/2][B/2G/2B,/2G,/2][B/2G/2B,/2G,/2][B/2G/2B,/2G,/2][B/2G/2B,/2G,/2][B/2G/2B,/2G,/2][B/2G/2B,/2G,/2][B/2G/2B,/2G,/2][B/2G/2B,/2G,/2][C-F,,][C-F,,][C-F,,][C-F,,][C-F,,][C-F,,][C-F,,][C-F,,][C-F,,][C-F,,][C-F,,][C-F,,][C-F,,][C-F,,][C-F,,][AFCA,][AFCA,][AFCA,][AFCA,][AFCA,][AFCA,][AFCA,][AFCA,][AFCA,][AFCA,][AFCA,][AFCA,][AFCA,][AFCA,][AFCA,][c6[c6[c6[c6[c6[c6[c6[c6[c6[c6[c6[c6[c6[c6[c6[AFCA,][AFCA,][AFCA,][AFCA,][AFCA,][AFCA,][AFCA,][AFCA,][AFCA,][AFCA,][AFCA,][AFCA,][AFCA,][AFCA,][B/2^G/2D/2[B/2^G/2D/2[B/2^G/2D/2[B/2^G/2D/2[B/2^G/2D/2[B/2^G/2D/2[B/2^G/2D/2[B/2^G/2D/2[B/2^G/2D/2[B/2^G/2D/2[B/2^G/2D/2[B/2^G/2D/2[B/2^G/2D/2[B/2^G/2D/2[B/2^G/2D/2[C/2-^A,/2[C/2-^A,/2[C/2-^A,/2[C/2-^A,/2[C/2-^A,/2[C/2-^A,/2[C/2-^A,/2[C/2-^A,/2[C/2-^A,/2[C/2-^A,/2[C/2-^A,/2[C/2-^A,/2[C/2-^A,/2[C/2-^A,/2[C/2-^A,/23-A3-]3-A3-]3-A3-]3-A3-]3-A3-]3-A3-]3-A3-]3-A3-]3-A3-]3-A3-]3-A3-]3-A3-]3-A3-]3-A3-]3-A3-]G,3/2G,3/2G,3/2G,3/2G,3/2G,3/2G,3/2G,3/2G,3/2G,3/2G,3/2G,3/2G,3/2G,3/2G,3/22-B,2-E,2-]2-B,2-E,2-]2-B,2-E,2-]2-B,2-E,2-]2-B,2-E,2-]2-B,2-E,2-]2-B,2-E,2-]2-B,2-E,2-]2-B,2-E,2-]2-B,2-E,2-]2-B,2-E,2-]2-B,2-E,2-]2-B,2-E,2-]2-B,2-E,2-]2-B,2-E,2-][E-C-G,-C,-][E-C-G,-C,-][E-C-G,-C,-][E-C-G,-C,-][E-C-G,-C,-][E-C-G,-C,-][E-C-G,-C,-][E-C-G,-C,-][E-C-G,-C,-][E-C-G,-C,-][E-C-G,-C,-][E-C-G,-C,-][E-C-G,-C,-][E-C-G,-C,-][E-C-G,-C,-]E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2E,,/2[DG,][DG,][DG,][DG,][DG,][DG,][DG,][DG,][DG,][DG,][DG,]
